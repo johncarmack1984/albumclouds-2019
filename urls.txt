@@ -1,0 +1,2 @@
+Deployment tutorial (undo this to take down CloudFront HTTPS infra):
+https://medium.freecodecamp.org/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a
